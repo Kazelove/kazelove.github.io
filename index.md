@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to "Not Wached"!
-tagline: notwatched.org
+title: Welcome to "Not Wached"
+tagline: a blog that you didnt see because you didnt look
 ---
 {% include JB/setup %}
 
